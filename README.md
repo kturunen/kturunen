@@ -11,4 +11,4 @@
 | 2x HDR-F-2.54_1x4        | 0.20€     |
 | SSD1306 OLED             | 1.80€     |
 | USB-connector            | 0.25/0.40€|
-[Visit me @ Google CLoud](http://kturunen.hopto.org)
+[Visit me @ Google Cloud](http://kturunen.hopto.org)
